@@ -1,6 +1,6 @@
 # Giovani Marchezini
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 <p align="left">
   Desenvolvedor <strong>Full Stack</strong> com sólida experiência na construção de aplicações web escaláveis, atuando de ponta a ponta no ciclo de desenvolvimento — da concepção à operação em produção.<br /><br />
